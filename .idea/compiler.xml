@@ -9,7 +9,6 @@
         <module name="gmail-interfaces" />
         <module name="gmail-service-utils" />
         <module name="gmail-web-utils" />
-        <module name="gmail-user-service" />
         <module name="gmail-common-utils" />
         <module name="gmail-api" />
       </profile>
