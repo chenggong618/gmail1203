@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmail-interfaces" />
+        <module name="gmail-service-utils" />
+        <module name="gmail-web-utils" />
+        <module name="gmail-user-service" />
+        <module name="gmail-common-utils" />
+        <module name="gmail-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.5" />
+      <module name="gmail-api" target="1.8" />
+      <module name="gmail-common-utils" target="1.8" />
+      <module name="gmail-interfaces" target="1.5" />
+      <module name="gmail-parant" target="1.8" />
+      <module name="gmail-service-utils" target="1.8" />
+      <module name="gmail-user-service" target="1.8" />
+      <module name="gmail-user-web" target="1.8" />
+      <module name="gmail-web-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmail-api" options="-parameters" />
+      <module name="gmail-common-utils" options="-parameters" />
+      <module name="gmail-service-utils" options="-parameters" />
+      <module name="gmail-user-service" options="-parameters" />
+      <module name="gmail-user-web" options="-parameters" />
+      <module name="gmail-web-utils" options="-parameters" />
+    </option>
+  </component>
+</project>
