@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gmail-api/gmail-api.iml" filepath="$PROJECT_DIR$/gmail-api/gmail-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmail-common-utils/gmail-common-utils.iml" filepath="$PROJECT_DIR$/gmail-common-utils/gmail-common-utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gmail-interfaces/gmail-interfaces.iml" filepath="$PROJECT_DIR$/gmail-interfaces/gmail-interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmail-parent/gmail-parant.iml" filepath="$PROJECT_DIR$/gmail-parent/gmail-parant.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmail-service-utils/gmail-service-utils.iml" filepath="$PROJECT_DIR$/gmail-service-utils/gmail-service-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmail-user-service/gmail-user-service.iml" filepath="$PROJECT_DIR$/gmail-user-service/gmail-user-service.iml" />
