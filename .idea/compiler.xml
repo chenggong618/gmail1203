@@ -9,6 +9,8 @@
         <module name="gmail-interfaces" />
         <module name="gmail-service-utils" />
         <module name="gmail-web-utils" />
+        <module name="gmail-user-web" />
+        <module name="gmail-user-service" />
         <module name="gmail-common-utils" />
         <module name="gmail-api" />
       </profile>
@@ -27,12 +29,12 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="gmail-api" options="-parameters" />
-      <module name="gmail-common-utils" options="-parameters" />
-      <module name="gmail-service-utils" options="-parameters" />
-      <module name="gmail-user-service" options="-parameters" />
-      <module name="gmail-user-web" options="-parameters" />
-      <module name="gmail-web-utils" options="-parameters" />
+      <module name="gmail-api" options="" />
+      <module name="gmail-common-utils" options="" />
+      <module name="gmail-service-utils" options="" />
+      <module name="gmail-user-service" options="" />
+      <module name="gmail-user-web" options="" />
+      <module name="gmail-web-utils" options="" />
     </option>
   </component>
 </project>
