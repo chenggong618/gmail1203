@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/gmail-web-utils/pom.xml" />
         <option value="$PROJECT_DIR$/gmail-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/gmail-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-manage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmail-manage-web/pom.xml" />
       </list>
     </option>
   </component>
